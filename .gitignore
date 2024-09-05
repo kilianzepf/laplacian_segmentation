@@ -1,0 +1,19 @@
+src/data_loaders
+saved_models/
+wandb/
+results/
+lightning_logs/
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+box_datasets/
+pca_isic.py
+
+#added by Kilian 
+BRATS_box_and_whiskers
+data/isic/isic64_one
+data/isic/isic256_one
+data/isic_ood
+slurm/slurm_logs/
+LSN/
