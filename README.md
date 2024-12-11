@@ -22,12 +22,12 @@ Figure: Model overview Laplacian Segmentation Network - uncertainty measures are
 If our method is helpful for your own research, please consider citing our MICCAI 2024 paper:
 ```
 
-@misc{zepf2024laplaciansegmentation,
-      title={Laplacian Segmentation Networks Improve Epistemic Uncertainty Quantification}, 
-      author={Kilian Zepf and Selma Wanna and Marco Miani and Juston Moore and Jes Frellsen and Søren Hauberg and Frederik Warburg and Aasa Feragen},
-      year={2024},
-      eprint={2303.13123},
-      archivePrefix={arXiv},      
-      url={https://arxiv.org/abs/2303.13123}, 
+@inproceedings{zepf2024laplacian,
+  title={Laplacian Segmentation Networks Improve Epistemic Uncertainty Quantification},
+  author={Zepf, Kilian and Wanna, Selma and Miani, Marco and Moore, Juston and Frellsen, Jes and Hauberg, S{\o}ren and Warburg, Frederik and Feragen, Aasa},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={349--359},
+  year={2024},
+  organization={Springer Nature Switzerland Cham}
 }
 ```
